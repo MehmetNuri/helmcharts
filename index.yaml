@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  postgres-chart:
+  - apiVersion: v2
+    created: "2024-05-15T23:14:08.663641592+03:00"
+    description: A Helm chart for Kubernetes to deploy PostgreSQL
+    digest: dc1c2b54492260e8300e5df5103707106602209e95ba1173e45a39d166c56087
+    icon: https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png
+    name: postgres-chart
+    urls:
+    - https://github.com/MehmetNuri/helmcharts/postgres-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-05-15T23:14:08.662714542+03:00"
